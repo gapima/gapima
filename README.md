@@ -27,11 +27,15 @@ Aspirante de tecnologia, atualmente estou aprendendo mais sobre Csharp, suas bib
     <img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gapima&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/-C%23-blue" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/-C%23-blue" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/-.NET-brightgreen" />
+    <img align="center" alt="C++" src="https://img.shields.io/badge/-C%2B%2B-lightgrey" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-orange" />
+    <img align="center" alt="CS5" src="https://img.shields.io/badge/-CSS-orange" />
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-red" />
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/-MySQL-yellow" />
 </div>
 # 	
+
 
