@@ -36,6 +36,6 @@ Aspirante de tecnologia, atualmente estou aprendendo mais sobre Csharp, suas bib
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/-MySQL-yellow" />
 </div>
-# 	
+
 
 
