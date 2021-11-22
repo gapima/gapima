@@ -1,6 +1,6 @@
 # Gabriel Lima
 
-> ​									"A tranquilidade é uma tragédia", isso define a inquietude em aprender. 																							- Abjumra.
+> ​									"A tranquilidade é uma tragédia, isso define a inquietude em aprender." 																							- Abjumra.
 
 
 
