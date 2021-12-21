@@ -1,10 +1,10 @@
 # Gabriel Lima
 
-> ​									"A tranquilidade é uma tragédia, isso define a inquietude em aprender." 																							- Abjumra.
+> ​									"Siga em frente." 																						
 
 
 
-- Título: Aspirante a dev em csharp
+- Título: Aspirante a programador
 
 
 ## Conecte-se:
