@@ -14,8 +14,7 @@
 
 ## Sobre mim:
 
-Aspirante a tecnologia, atualmente estou aprendendo mais sobre Csharp, suas bibliotecas com .NET, conheço também um pouco de Python, C++, PHP, HTML e CSS. O meu interesse maior está em back end, porém acredito que devo ter um conhecimento abragente em front end também, que irá facilitar em criações ou resoluções em problemas. Pratico o uso de SQL em PostgreSQL e MySQL. Sou formado em Analise em Desenvolvimento de Sistemas, estou buscando cursar bootcamp na 42sp, e faço cursos para tirar algumas certificações. Atuo como analista de infraestrutura de TI, mas o meu sonho mesmo é tornar-se  um programador. 
-
+Aspirante a tecnologia, atualmente estou aprendendo mais sobre Csharp, suas bibliotecas com .NET, conheço também um pouco de Python, C++, PHP, HTML e CSS. O meu interesse maior está em back end, porém acredito que devo ter um conhecimento abragente em front end também, que irá facilitar em criações ou resoluções em problemas. Pratico o uso de SQL em PostgreSQL e MySQL. Sou formado em Analise em Desenvolvimento de Sistemas, estou buscando cursar bootcamp na 42sp, e faço cursos para tirar algumas certificações. 
 	
 
 
