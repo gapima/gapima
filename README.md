@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Gabriel! 
-**`Engenheiro de software`** 💻✨
+**`Desenvolvedor Full-Stack | Criativo Digital | Especialista em Sistemas Complexos`** 💻✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Transformando+café+em+códigos+perfeitos;Ideias+virando+realidade+digital;Desafios+são+combustível+para+a+inovação" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas Mágica
+### 🛠️ Arsenal Tecnológico
 
 **Linguagens:**  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -37,19 +37,19 @@
 
 ---
 
-### 🚀 Projetos Destacados
+### 🚀 Projetos em Destaque
 
 1. **Projeto Alpha** - Plataforma revolucionária de [descrição breve]  
-   ![GitHub Stars](https://img.shields.io/github/stars/seuuser/projeto-alpha?style=for-the-badge&logo=github&color=blueviolet)
+   ![GitHub Stars](https://img.shields.io/github/stars/SEU_USER_GITHUB/projeto-alpha?style=for-the-badge&logo=github&color=blueviolet)
    ![Tech Stack](https://img.shields.io/badge/stack-React%20|%20.NET%20|%20SQL-brightgreen)
 
 2. **CodeArt** - Ferramenta criativa para [descrição breve]  
-   ![GitHub Forks](https://img.shields.io/github/forks/seuuser/codeart?style=for-the-badge&logo=github&color=success)
+   ![GitHub Forks](https://img.shields.io/github/forks/SEU_USER_GITHUB/codeart?style=for-the-badge&logo=github&color=success)
    ![Tech Stack](https://img.shields.io/badge/stack-C%23%20|%20C++%20|%20TensorFlow-important)
 
 ---
 
-### 📈 Minhas Estatísticas de Guerra
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_GITHUB&show_icons=true&theme=radical" alt="Estatísticas" width="400"/>
@@ -58,25 +58,19 @@
 
 ---
 
-### 🎮 Habilidades Nível Expert
+### 💡 Habilidades Técnicas Avançadas
 ```csharp
-public class MinhasHabilidades {
-  public void CodigoPerfeito() {
-    bool cleanCode = true;
-    while(cleanCode) {
-      EscreverCodigo(documentado: true);
-      OtimizarPerformance();
+public class PerfilDev {
+  public void Expertises() {
+    var habilidades = new List<string> {
+      "Arquitetura de sistemas em C/C++",
+      "Desenvolvimento Full-Stack com .NET",
+      "Otimização de queries SQL complexas",
+      "Integração de sistemas multi-plataforma"
+    };
+    
+    foreach(var skill in habilidades) {
+      Console.WriteLine($"🏆 Domínio em: {skill}");
     }
   }
-  
-  public string Criatividade() {
-    return "Combino C++ com C# para soluções inovadoras\n" +
-           "Integro IA com SQL para insights poderosos\n" +
-           "Desenvolvo sistemas low-level com C puro!";
-  }
 }
-
-### 📫 Vamos Criar Algo Incrível Juntos!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gapima/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gapima7@gmail.com)
