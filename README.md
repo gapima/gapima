@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Gabriel! 
-**`Desenvolvedor`** 💻✨
+**`Engenheiro de software`** 💻✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Transformando+café+em+códigos+perfeitos;Ideias+virando+realidade+digital;Desafios+são+combustível+para+a+inovação" alt="Typing SVG" />
@@ -41,32 +41,42 @@
 
 1. **Projeto Alpha** - Plataforma revolucionária de [descrição breve]  
    ![GitHub Stars](https://img.shields.io/github/stars/seuuser/projeto-alpha?style=for-the-badge&logo=github&color=blueviolet)
-   ![Tech Stack](https://img.shields.io/badge/stack-React%20|%20Node.js%20|%20MongoDB-brightgreen)
+   ![Tech Stack](https://img.shields.io/badge/stack-React%20|%20.NET%20|%20SQL-brightgreen)
 
 2. **CodeArt** - Ferramenta criativa para [descrição breve]  
    ![GitHub Forks](https://img.shields.io/github/forks/seuuser/codeart?style=for-the-badge&logo=github&color=success)
-   ![Tech Stack](https://img.shields.io/badge/stack-Python%20|%20TensorFlow%20|%20FastAPI-important)
+   ![Tech Stack](https://img.shields.io/badge/stack-C%23%20|%20C++%20|%20TensorFlow-important)
 
 ---
 
 ### 📈 Minhas Estatísticas de Guerra
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical" alt="Estatísticas" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuuser&theme=dark" alt="Sequência" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_GITHUB&show_icons=true&theme=radical" alt="Estatísticas" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER_GITHUB&theme=dark" alt="Sequência" width="400"/>
 </p>
 
 ---
 
-### 🎨 Meu Canvas Criativo
+### 🎮 Habilidades Nível Expert
+```csharp
+public class MinhasHabilidades {
+  public void CodigoPerfeito() {
+    bool cleanCode = true;
+    while(cleanCode) {
+      EscreverCodigo(documentado: true);
+      OtimizarPerformance();
+    }
+  }
+  
+  public string Criatividade() {
+    return "Combino C++ com C# para soluções inovadoras\n" +
+           "Integro IA com SQL para insights poderosos\n" +
+           "Desenvolvo sistemas low-level com C puro!";
+  }
+}
 
-```javascript
-const minhaCriatividade = {
-  ideiasPorHora: Infinity,
-  projetosInovadores: [
-    'Sistema de IA para gerar arte',
-    'Aplicativo de realidade aumentada',
-    'Motor de jogos customizado'
-  ],
-  superPoder: 'Transformar conceitos abstratos em código funcional'
-};
+### 📫 Vamos Criar Algo Incrível Juntos!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gapima/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gapima7@gmail.com)
