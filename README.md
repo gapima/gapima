@@ -44,7 +44,7 @@
    ![Tech Stack](https://img.shields.io/badge/stack-React%20|%20.NET%20|%20SQL-brightgreen)
 
 2. **CodeArt** - Ferramenta criativa para [descrição breve]  
-   ![GitHub Forks](https://img.shields.io/github/forks/SEU_USER_GITHUB/codeart?style=for-the-badge&logo=github&color=success)
+   ![GitHub Forks](https://img.shields.io/github/forks/gapima/codeart?style=for-the-badge&logo=github&color=success)
    ![Tech Stack](https://img.shields.io/badge/stack-C%23%20|%20C++%20|%20TensorFlow-important)
 
 ---
