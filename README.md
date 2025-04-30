@@ -70,7 +70,7 @@ public class PerfilDev {
     };
     
     foreach(var skill in habilidades) {
-      Console.WriteLine($"🏆 Domínio em: {skill}");
+      Console.WriteLine($"🏆 Domínio em: {C#}");
     }
   }
 }
