@@ -39,14 +39,7 @@
 
 ### 🚀 Projetos em Destaque
 
-1. **Projeto Alpha** - Plataforma revolucionária de [descrição breve]  
-   ![GitHub Stars](https://img.shields.io/github/stars/SEU_USER_GITHUB/projeto-alpha?style=for-the-badge&logo=github&color=blueviolet)
-   ![Tech Stack](https://img.shields.io/badge/stack-React%20|%20.NET%20|%20SQL-brightgreen)
-
-2. **CodeArt** - Ferramenta criativa para [descrição breve]  
-   ![GitHub Forks](https://img.shields.io/github/forks/gapima/codeart?style=for-the-badge&logo=github&color=success)
-   ![Tech Stack](https://img.shields.io/badge/stack-C%23%20|%20C++%20|%20TensorFlow-important)
-
+--Em manuntencao--
 ---
 
 ### 📈 Estatísticas do GitHub
