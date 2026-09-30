@@ -1,6 +1,7 @@
 # Gabriel Lima
 
-**Backend .NET Developer**
+![Backend .NET Developer — C# • APIs • Oracle • PL/SQL — Arquitetura • Performance • Sistemas Distribuídos](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1800&color=64748B&width=580&height=32&lines=Backend+.NET+Developer;C%23+%E2%80%A2+APIs+%E2%80%A2+Oracle+%E2%80%A2+PL%2FSQL;Arquitetura+%E2%80%A2+Performance+%E2%80%A2+Sistemas+Distribu%C3%ADdos)
+
 
 Desenvolvedor Backend .NET com experiência em sistemas corporativos críticos, APIs REST, bancos de dados relacionais e integrações.
 Atuo com C#, ASP.NET, Oracle e PL/SQL em cenários que envolvem evolução de sistemas, regras de negócio, performance e produção.
